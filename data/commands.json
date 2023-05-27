@@ -1,0 +1,30 @@
+[
+    {
+        "command": "@{channel_name} kenapa aku di kacangin?",
+        "message": "Otak gua cuma 512mb @{author_name}, jadi tidak bisa membaca semua chat kalian :v"
+    },
+    {
+        "command": "@{channel_name} nametag minecraft?",
+        "message": "@{author_name} Nametag Minecraft gua AerellTheGamers di java ataupun di bedrock :v"
+    },
+    {
+        "command": "@{channel_name} umur?",
+        "message": "Gua umur 17, tahun ini 18 @{author_name} :v"
+    },
+    {
+        "command": "@{channel_name} awal ngeyoutube?",
+        "message": "@{author_name} Gua ngeyoutube tahun 2018, tapi channel ini dibuat tahun 2019 :v"
+    },
+    {
+        "command": "@{channel_name} telat gak?",
+        "message": "Tidak ada kata telat @{author_name} untuk menonton AerellGamers :v"
+    },
+    {
+        "command": "@{channel_name} halo bang",
+        "message": "Hai @{author_name} :v"
+    },
+    {
+        "command": "@{channel_name} kapan face reveal?",
+        "message": "Nanti ya @{author_name} kalau gua udah ada kamera atau facecam :v"
+    }
+]
